@@ -2,6 +2,7 @@
   "excludes": [
     "**/automation_tests/**",
     "**/tests/**",
-    "**/test/**"
+    "**/test/**",
+    "**/reference_connector/**"
   ]
 }
