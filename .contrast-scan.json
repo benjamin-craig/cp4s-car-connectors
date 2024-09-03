@@ -3,7 +3,8 @@
     "**/automation_tests/**",
     "**/tests/**",
     "**/test/**",
-    "**/reference_connector/**"
+    "**/reference_connector/**",
+    "**/testing/**"
   ]
 }
 
