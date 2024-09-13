@@ -5,7 +5,7 @@
     "**/test/**",
     "**/reference_connector/**",
     "**/testing/**",
-    "**/tester/**"
+    "**/tested/**"
   ]
 }
 
